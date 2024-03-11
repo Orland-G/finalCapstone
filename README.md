@@ -1,33 +1,14 @@
 # finalCapstone
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sentiment Predictions</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-    }
-    h1 {
-      font-size: 24px;
-    }
-    p {
-      font-size: 16px;
-    }
-    a {
-      color: #007bff;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
+# Sentiment Prediction
+
+This project aims to generate a model to predict costumer reviews based on semantics. 
+
+## Navigation
+
+- [sentiment_analysis.py](https://github.com/Orland-G/finalCapstone/blob/master/sentiment_analysis.py)
+  - This is the `sentiment_analysis.py` file for the project.
+
 
   <h1>Sentiment Analysis of Costumer Reviews using SVM model</h1>
   
@@ -39,5 +20,4 @@
   
   </ul>
 
-</body>
-</html>
+
